@@ -28,6 +28,9 @@ draw.io, Diagrams.net, Dbeaver
 * Course "Advanced business analytics", Yandex Practicum
 * Course "Mathematics Fundamentals for Digital Professions", Yandex Practicum
 
+## Languages
+Russian, English, German
+
 ## Contacts 
 * https://t.me/@vsophia
 * vsophia@yandex.ru
