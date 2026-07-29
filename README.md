@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there, I'm Sophia Ignateva
+I'm Business Analyst.
+
+Connect with me via tg: https://t.me/@vsophia.
 
 <!--
 **SophiaIgnateva/SophiaIgnateva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
