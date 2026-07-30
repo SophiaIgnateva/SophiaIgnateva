@@ -19,7 +19,7 @@ I'm Business Analyst.
 PostgreSQL, BPMN, UML, technical specifications, модели SIPOC, user story map, CJM, Excel
 
 ## Instruments 
-draw.io, Diagrams.net, Dbeaver
+Diagrams.net (draw.io), Dbeaver
 
 ## Education
 
